@@ -1,0 +1,21 @@
+#CODESYS Ignore files#
+*.~u
+*.backup
+*.tgs
+*.opt
+*.bootinfo
+*.bootinfo_guids
+*.compileinfo
+*.projectarchive
+
+#DOSoft & ISPSoft Ignore files#
+*.tmp
+*.~isp
+*.~bak
+*.bak
+
+#DIADesigner 
+*.diabak
+
+# NotSync folder
+_NotSyncGit/
